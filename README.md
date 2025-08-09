@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0231-power-of-two) |
+## Design
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Ordered Set
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
