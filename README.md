@@ -99,20 +99,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0207-course-schedule) |
 | [1039-find-the-town-judge](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1916-find-center-of-star-graph) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0733-flood-fill) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0200-number-of-islands) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
