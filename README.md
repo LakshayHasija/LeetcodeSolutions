@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [1039-find-the-town-judge](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1039-find-the-town-judge) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [2411-spiral-matrix-iv](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
@@ -102,9 +104,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0733-flood-fill) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
