@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0071-simplify-path) |
 | [3618-find-the-original-typed-string-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
 |  |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0867-new-21-game) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
