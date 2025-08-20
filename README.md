@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0867-new-21-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0900-reordered-power-of-2) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1448-maximum-69-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
 |  |
@@ -152,10 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 <!---LeetCode Topics End-->
