@@ -1,7 +1,5 @@
 class Solution:
     def generateMatrix(self, n: int) -> List[List[int]]:
-        if n==1:
-            return [[1]]
         matrix=[[None for i in range(n)] for i in range(n)]
         top=0
         left=0
