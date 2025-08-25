@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0867-new-21-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0867-new-21-game) |
+| [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [3618-find-the-original-typed-string-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+| [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1448-maximum-69-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1448-maximum-69-number) |
 | [2481-strictly-palindromic-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2481-strictly-palindromic-number) |
 ## Bit Manipulation
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0867-new-21-game) |
+| [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
 ## Stack
 |  |
 | ------- |
@@ -199,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0319-bulb-switcher) |
+| [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [2481-strictly-palindromic-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
