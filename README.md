@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0287-find-the-duplicate-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0455-assign-cookies) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0287-find-the-duplicate-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0541-reverse-string-ii) |
 | [2481-strictly-palindromic-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2481-strictly-palindromic-number) |
