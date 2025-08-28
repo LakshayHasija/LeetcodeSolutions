@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0322-coin-change) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0541-reverse-string-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0541-reverse-string-ii) |
 | [1250-longest-common-subsequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 | [3462-vowels-game-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0200-number-of-islands) |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Binary Search Tree
 |  |
