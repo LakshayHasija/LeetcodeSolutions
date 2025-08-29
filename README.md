@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0541-reverse-string-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0541-reverse-string-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 | [3462-vowels-game-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0867-new-21-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0867-new-21-game) |
 | [1250-longest-common-subsequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
