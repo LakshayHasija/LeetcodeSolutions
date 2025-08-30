@@ -20,3 +20,4 @@ class Solution:
             else:
                 return helper(r,c+1)
         return helper(0,0)
+        
