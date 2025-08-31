@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0079-word-search) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
 | [0900-reordered-power-of-2](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [1039-find-the-town-judge](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1039-find-the-town-judge) |
 ## String
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Binary Search Tree
