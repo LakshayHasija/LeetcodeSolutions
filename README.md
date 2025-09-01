@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3462-vowels-game-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0867-new-21-game) |
 | [1250-longest-common-subsequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [3618-find-the-original-typed-string-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3618-find-the-original-typed-string-ii) |
