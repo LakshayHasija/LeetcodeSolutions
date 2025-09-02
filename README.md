@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0319-bulb-switcher) |
 | [0867-new-21-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0900-reordered-power-of-2) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0319-bulb-switcher) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
 |  |
