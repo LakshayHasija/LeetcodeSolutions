@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0079-word-search) |
+| [0132-palindrome-partitioning-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0096-unique-binary-search-trees) |
+| [0132-palindrome-partitioning-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0322-coin-change](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
