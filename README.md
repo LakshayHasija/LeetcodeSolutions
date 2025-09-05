@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0900-reordered-power-of-2) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2481-strictly-palindromic-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2481-strictly-palindromic-number) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
