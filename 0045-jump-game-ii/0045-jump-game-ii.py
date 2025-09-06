@@ -1,18 +1,15 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
         n=len(nums)
-        @lru_cache(None)
-        def backtracking(index):
-            if index>=n-1:
-                return 0
-            minsteps=999999999
-            for i in range(1,nums[index]+1):
-                if index+i<n:
-                    step=backtracking(index+i)
-                if step!=999999999:
-                    minsteps=min(step+1,minsteps)
-            return minsteps
-        ans=backtracking(0)
-        if ans==999999999:
-            return -1
-        return ans
+        if n<=1:
+            return 0
+        goal=n-1
+        jumps=0
+        farthest=0
+        current_end=0
+        for i in range(n-1): #0,1,2,3,4
+            farthest=max(farthest,i+nums[i])
+            if i==current_end:
+                jumps+=1
+                current_end=farthest
+        return jumps
