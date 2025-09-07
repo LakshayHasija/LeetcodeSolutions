@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0494-target-sum) |
