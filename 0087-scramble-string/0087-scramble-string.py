@@ -1,10 +1,16 @@
 class Solution:
     def isScramble(self, s1: str, s2: str) -> bool:
+        memo={}
         def solve(X,Y):
+            key=X+Y
+            if key in memo:
+                return memo[key]
             if X==Y:
-                return True
+                memo[key]=True
+                return memo[key]
             if len(X)<=1:
-                return False
+                memo[key]=False
+                return memo[key]
             n=len(X)
             flag=False
             for k in range(n):
@@ -17,5 +23,6 @@ class Solution:
                     if solve(X[:k],Y[:k]) and solve(X[k:],Y[k:]):
                         flag=True
                         break
-            return flag
+            memo[key]=flag
+            return memo[key]
         return solve(s1,s2)
