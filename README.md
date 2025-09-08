@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0087-scramble-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0224-basic-calculator) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0055-jump-game) |
+| [0087-scramble-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0132-palindrome-partitioning-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0132-palindrome-partitioning-ii) |
