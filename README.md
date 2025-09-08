@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0867-new-21-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0867-new-21-game) |
+| [0923-super-egg-drop](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0923-super-egg-drop) |
 | [1250-longest-common-subsequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0923-super-egg-drop](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0923-super-egg-drop) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0319-bulb-switcher) |
 | [0867-new-21-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0900-reordered-power-of-2) |
+| [0923-super-egg-drop](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0923-super-egg-drop) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
