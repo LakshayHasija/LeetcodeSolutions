@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0319-bulb-switcher) |
 | [0867-new-21-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0900-reordered-power-of-2) |
+| [0903-implement-rand10-using-rand7](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
 | [0923-super-egg-drop](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0923-super-egg-drop) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0867-new-21-game) |
+| [0903-implement-rand10-using-rand7](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
 ## Stack
 |  |
@@ -334,4 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0204-count-primes) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
