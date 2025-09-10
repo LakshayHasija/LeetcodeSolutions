@@ -1,22 +1,35 @@
-class Trie:
-
+class TrieNode:
     def __init__(self):
-        self.trie=set()
+        self.children={}
+        self.flag=False
+
+class Trie:
+    def __init__(self):
+        self.head=TrieNode()
 
     def insert(self, word: str) -> None:
-        self.trie.add(word)
+        node=self.head
+        for char in word:
+            if char not in node.children:
+                node.children[char]=TrieNode()
+            node=node.children[char]
+        node.flag=True
 
     def search(self, word: str) -> bool:
-        if word in self.trie:
-            return True
-        return False
+        node=self.head
+        for char in word:
+            if char not in node.children:
+                return False
+            node=node.children[char]
+        return node.flag
 
     def startsWith(self, prefix: str) -> bool:
-        n=len(prefix)
-        for i in self.trie:
-            if i[:n]==prefix:
-                return True
-        return False
+        node=self.head
+        for char in prefix:
+            if char not in node.children:
+                return False
+            node=node.children[char]
+        return True
 
 # Your Trie object will be instantiated and called as such:
 # obj = Trie()
