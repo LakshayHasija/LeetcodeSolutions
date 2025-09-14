@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0733-flood-fill](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0733-flood-fill) |
+| [1006-vowel-spellchecker](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1039-find-the-town-judge](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1072-next-greater-node-in-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0900-reordered-power-of-2](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0900-reordered-power-of-2) |
+| [1006-vowel-spellchecker](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1039-find-the-town-judge](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1039-find-the-town-judge) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
+| [1006-vowel-spellchecker](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
