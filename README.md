@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0068-text-justification) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2411-spiral-matrix-iv](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0038-count-and-say) |
+| [0068-text-justification](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0087-scramble-string) |
