@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2411-spiral-matrix-iv](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2411-spiral-matrix-iv) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1448-maximum-69-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2481-strictly-palindromic-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2481-strictly-palindromic-number) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3462-vowels-game-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Tree
 |  |
 | ------- |
