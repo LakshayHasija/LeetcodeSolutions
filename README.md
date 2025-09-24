@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0900-reordered-power-of-2](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [1006-vowel-spellchecker](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1006-vowel-spellchecker) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0504-base-7](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0504-base-7) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0096-unique-binary-search-trees) |
+| [0166-fraction-to-recurring-decimal](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0231-power-of-two) |
