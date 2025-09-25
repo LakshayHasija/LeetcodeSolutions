@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0079-word-search) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0085-maximal-rectangle) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0095-unique-binary-search-trees-ii) |
