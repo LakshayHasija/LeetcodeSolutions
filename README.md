@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0204-count-primes) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0322-coin-change](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0322-coin-change) |
