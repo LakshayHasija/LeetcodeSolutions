@@ -8,22 +8,20 @@ class Solution:
     def getDirections(self, root: Optional[TreeNode], startValue: int, destValue: int) -> str:
         startpath=[]
         destpath=[]
-        def dfs(root,temp,startValue,destValue):
-            nonlocal startpath,destpath
+        def dfs(root,temp):
             if not root:
                 return
             if root.val==startValue:
-                startpath=temp[:]
+                startpath.extend(temp[:])
             if root.val==destValue:
-                destpath=temp[:]
+                destpath.extend(temp[:])
             temp.append('L')
-            dfs(root.left,temp,startValue,destValue)
+            dfs(root.left,temp)
             temp.pop()
             temp.append('R')
-            dfs(root.right,temp,startValue,destValue)
+            dfs(root.right,temp)
             temp.pop()
-        dfs(root,[],startValue,destValue)
-        print(startpath,destpath)
+        dfs(root,[])
         i=0
         while i<len(startpath) and i<len(destpath) and startpath[i]==destpath[i]:
             i+=1
