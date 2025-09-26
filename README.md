@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2411-spiral-matrix-iv) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2429-design-a-food-rating-system](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Monotonic Stack
 |  |
 | ------- |
