@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [0733-flood-fill](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0733-flood-fill) |
+| [0830-largest-triangle-area](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1006-vowel-spellchecker) |
 | [1039-find-the-town-judge](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1072-next-greater-node-in-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1072-next-greater-node-in-linked-list) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0319-bulb-switcher) |
 | [0504-base-7](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0504-base-7) |
+| [0830-largest-triangle-area](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
@@ -431,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
