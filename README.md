@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0830-largest-triangle-area](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1039-find-the-town-judge](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1072-next-greater-node-in-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0903-implement-rand10-using-rand7](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
 | [0923-super-egg-drop](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0923-super-egg-drop) |
 | [0935-orderly-queue](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0935-orderly-queue) |
+| [1018-largest-perimeter-triangle](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [0935-orderly-queue](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0935-orderly-queue) |
+| [1018-largest-perimeter-triangle](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2887-sort-vowels-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 ## Probability and Statistics
