@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0085-maximal-rectangle) |
@@ -474,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
