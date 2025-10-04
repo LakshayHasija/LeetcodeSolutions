@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0494-target-sum) |
+| [0506-relative-ranks](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [0733-flood-fill](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0733-flood-fill) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [0935-orderly-queue](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0935-orderly-queue) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0407-trapping-rain-water-ii) |
+| [0506-relative-ranks](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
