@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
+| [0307-range-sum-query-mutable](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0307-range-sum-query-mutable](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0307-range-sum-query-mutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2429-design-a-food-rating-system](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
+| [0307-range-sum-query-mutable](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0307-range-sum-query-mutable) |
 ## Queue
 |  |
 | ------- |
@@ -525,4 +528,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0239-sliding-window-maximum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
