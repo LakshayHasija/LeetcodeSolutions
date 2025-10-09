@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Linked List
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2411-spiral-matrix-iv) |
 | [3336-water-bottles-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Binary Search
 |  |
 | ------- |
