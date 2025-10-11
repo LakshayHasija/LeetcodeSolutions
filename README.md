@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0068-text-justification) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0055-jump-game) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0010-regular-expression-matching) |
 | [0224-basic-calculator](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [2573-remove-nodes-from-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2573-remove-nodes-from-linked-list) |
