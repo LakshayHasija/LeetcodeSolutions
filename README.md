@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2411-spiral-matrix-iv) |
 | [2429-design-a-food-rating-system](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sliding Window
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2573-remove-nodes-from-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
 |  |
 | ------- |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2573-remove-nodes-from-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2573-remove-nodes-from-linked-list) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Brainteaser
 |  |
 | ------- |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3678-design-task-manager](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
@@ -547,8 +552,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0307-range-sum-query-mutable) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0307-range-sum-query-mutable) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
