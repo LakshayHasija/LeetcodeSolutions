@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1917-maximum-average-pass-ratio](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0068-text-justification) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2411-spiral-matrix-iv) |
 | [3336-water-bottles-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3336-water-bottles-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1612-avoid-flood-in-the-city](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1612-avoid-flood-in-the-city) |
+| [2169-simple-bank-system](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0307-range-sum-query-mutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2169-simple-bank-system](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3678-design-task-manager) |
 ## Ordered Set
