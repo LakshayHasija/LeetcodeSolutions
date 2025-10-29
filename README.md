@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3336-water-bottles-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
