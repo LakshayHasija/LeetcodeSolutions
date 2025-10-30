@@ -1,9 +1,9 @@
 class Solution:
     def minNumberOperations(self, target: List[int]) -> int:
-        finale=curr=0
+        ans=0
+        prev=0
         for i in target:
-            if i>curr:
-                finale+=i-curr
-            curr=i
-        return finale
-            
+            if i>prev:
+                ans+=i-prev
+            prev=i
+        return ans
