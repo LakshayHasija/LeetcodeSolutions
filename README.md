@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1917-maximum-average-pass-ratio](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3618-find-the-original-typed-string-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1917-maximum-average-pass-ratio](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Probability and Statistics
