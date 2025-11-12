@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0518-coin-change-ii) |
