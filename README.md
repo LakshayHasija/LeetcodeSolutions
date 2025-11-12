@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Divide and Conquer
