@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3618-find-the-original-typed-string-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0867-new-21-game) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Two Pointers
 |  |
 | ------- |
