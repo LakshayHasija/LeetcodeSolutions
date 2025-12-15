@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1917-maximum-average-pass-ratio](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2058-concatenation-of-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2058-concatenation-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2169-simple-bank-system](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2169-simple-bank-system) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3618-find-the-original-typed-string-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1585-the-kth-factor-of-n) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
