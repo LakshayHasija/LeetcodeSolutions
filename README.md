@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2092-find-all-people-with-secret](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1916-find-center-of-star-graph) |
+| [2092-find-all-people-with-secret](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2092-find-all-people-with-secret) |
 | [2439-longest-cycle-in-a-graph](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [3863-power-grid-maintenance](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2092-find-all-people-with-secret](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2092-find-all-people-with-secret) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2439-longest-cycle-in-a-graph](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0820-find-eventual-safe-states) |
+| [2092-find-all-people-with-secret](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2092-find-all-people-with-secret) |
 | [2439-longest-cycle-in-a-graph](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [3863-power-grid-maintenance](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
+| [2092-find-all-people-with-secret](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
