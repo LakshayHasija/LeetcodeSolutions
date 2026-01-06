@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0820-find-eventual-safe-states) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2092-find-all-people-with-secret) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0820-find-eventual-safe-states) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2092-find-all-people-with-secret) |
 | [2439-longest-cycle-in-a-graph](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [3863-power-grid-maintenance](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3863-power-grid-maintenance) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
