@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1470-shuffle-the-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1552-build-an-array-with-stack-operations](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1552-build-an-array-with-stack-operations) |
