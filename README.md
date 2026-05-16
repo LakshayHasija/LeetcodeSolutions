@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0239-sliding-window-maximum) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0611-valid-triangle-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0611-valid-triangle-number) |
