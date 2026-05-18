@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1306-jump-game-iii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1345-jump-game-iv) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1345-jump-game-iv](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1345-jump-game-iv) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1345-jump-game-iv) |
 | [2092-find-all-people-with-secret](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2092-find-all-people-with-secret) |
 | [2439-longest-cycle-in-a-graph](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [3863-power-grid-maintenance](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3863-power-grid-maintenance) |
