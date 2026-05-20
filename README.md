@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2429-design-a-food-rating-system](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
