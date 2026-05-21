@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2429-design-a-food-rating-system](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -783,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0208-implement-trie-prefix-tree) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
 | ------- |
