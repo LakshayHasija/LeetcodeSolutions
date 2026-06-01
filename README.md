@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2169-simple-bank-system](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2126-destroying-asteroids](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
