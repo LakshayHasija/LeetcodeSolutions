@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3618-find-the-original-typed-string-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
