@@ -6,4 +6,5 @@ class Solution:
         minhandangle=6*minutes
         hourhandangle=(hour*30+(minutes/2))%360
         # print(minhandangle,hourhandangle)
-        return abs(minhandangle-hourhandangle) if abs(minhandangle-hourhandangle)<=180 else 360-abs(minhandangle-hourhandangle)
+        angle=abs(minhandangle-hourhandangle)
+        return angle if angle<=180 else 360-angle
