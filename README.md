@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1448-maximum-69-number) |
