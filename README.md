@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-find-the-highest-altitude](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1840-maximum-building-height) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1861-rotating-the-box](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1861-rotating-the-box) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1917-maximum-average-pass-ratio](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2126-destroying-asteroids](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -912,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Doubly-Linked List
 |  |
 | ------- |
