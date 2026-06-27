@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3093-longest-common-suffix-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2429-design-a-food-rating-system](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
