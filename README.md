@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1345-jump-game-iv) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
+| [1301-number-of-paths-with-max-score](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1861-rotating-the-box](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1340-jump-game-v) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
