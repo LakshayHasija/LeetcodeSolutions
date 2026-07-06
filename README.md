@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1340-jump-game-v) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1340-jump-game-v) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
