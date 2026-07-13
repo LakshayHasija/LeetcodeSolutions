@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0900-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
