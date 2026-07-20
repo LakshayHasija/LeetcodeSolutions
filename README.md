@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1072-next-greater-node-in-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1260-shift-2d-grid](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
+| [1260-shift-2d-grid](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1861-rotating-the-box](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1861-rotating-the-box) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1552-build-an-array-with-stack-operations](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1929-concatenation-of-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
