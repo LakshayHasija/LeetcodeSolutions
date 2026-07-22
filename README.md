@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3606-coupon-code-validator](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3614-process-string-with-special-operations-ii) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
