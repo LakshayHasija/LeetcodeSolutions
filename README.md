@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3531-count-covered-buildings](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3531-count-covered-buildings) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
