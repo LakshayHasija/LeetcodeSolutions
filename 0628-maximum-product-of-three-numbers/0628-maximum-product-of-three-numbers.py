@@ -1,8 +1,15 @@
 class Solution:
-    def maximumProduct(self, digits: List[int]) -> int:
-        digits.sort()
-        if len(digits)<2:
-            return digits[-1]
-        if len(digits)<3:
-            return digits[-1]*digits[-2]
-        return max(digits[-1]*digits[-2]*digits[-3],digits[-1]*digits[0]*digits[1])
+    def maximumProduct(self, A: List[int]) -> int:
+        a=b=c=-1001
+        x=y=1001
+        for n in A:
+            pa, pb, px = a, b, x
+
+            a = max(a, n)
+            b = max(b, min(pa, n))
+            c = max(c, min(pb, n))
+            
+            x = min(x, n)
+            y = min(y, max(px, n))
+
+        return max(a * b * c, a * x * y)
