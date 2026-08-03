@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1345-jump-game-iv) |
+| [1406-stone-game-iii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1470-shuffle-the-array) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1340-jump-game-v) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
+| [1406-stone-game-iii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
+| [1406-stone-game-iii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
 |  |
@@ -1010,4 +1014,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
