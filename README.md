@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1072-next-greater-node-in-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1288-remove-covered-intervals) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0877-stone-game) |
 | [0923-super-egg-drop](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0923-super-egg-drop) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1590-make-sum-divisible-by-p](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0935-orderly-queue) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1362-airplane-seat-assignment-probability](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
@@ -870,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
@@ -1022,9 +1027,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
