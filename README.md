@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3093-longest-common-suffix-queries) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2429-design-a-food-rating-system](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1871-jump-game-vii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
