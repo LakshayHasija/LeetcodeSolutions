@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3531-count-covered-buildings) |
