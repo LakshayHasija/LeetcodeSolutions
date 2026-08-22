@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3700-number-of-zigzag-arrays-ii) |
