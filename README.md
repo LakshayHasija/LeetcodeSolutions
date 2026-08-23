@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1871-jump-game-vii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1840-maximum-building-height) |
 | [1925-count-square-sum-triples](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1917-maximum-average-pass-ratio](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -893,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
