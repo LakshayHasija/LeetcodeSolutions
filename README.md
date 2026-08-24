@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1861-rotating-the-box](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1872-stone-game-viii) |
 | [1917-maximum-average-pass-ratio](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-concatenation-of-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1871-jump-game-vii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1872-stone-game-viii) |
 | [2054-two-best-non-overlapping-events](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1872-stone-game-viii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2485-find-the-pivot-integer](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2574-left-and-right-sum-differences) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1585-the-kth-factor-of-n) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1872-stone-game-viii) |
 | [1925-count-square-sum-triples](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -896,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/3462-vowels-game-in-a-string) |
@@ -1052,12 +1057,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
