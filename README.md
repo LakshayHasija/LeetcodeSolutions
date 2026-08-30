@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2058-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-sum-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
