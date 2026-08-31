@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0146-lru-cache) |
 | [1072-next-greater-node-in-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2411-spiral-matrix-iv](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/2411-spiral-matrix-iv) |
