@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0794-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1628-count-submatrices-with-all-ones](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/1628-count-submatrices-with-all-ones) |
