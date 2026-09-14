@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0836-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0900-reordered-power-of-2) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/LakshayHasija/LeetcodeSolutions/tree/master/0836-rectangle-overlap) |
 ## Combinatorics
 |  |
 | ------- |
